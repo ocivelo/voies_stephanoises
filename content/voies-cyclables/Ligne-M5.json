@@ -8,10 +8,11 @@
           "line": 5,
           "name": "Centre-Ville -> Steels",
           "status": "variante",
-          "type": "unidirectionnelle",
+          "type": "voie-bus",
           "link": ""
         },
         "geometry": {
+        "type": "LineString",
           "coordinates": [
             [
               4.4165289305717295,
@@ -21,8 +22,7 @@
               4.40024691763827,
               45.44029874594921
             ]
-          ],
-          "type": "LineString"
+          ]
         }
       },
       {
@@ -32,10 +32,11 @@
           "line": 5,
           "name": "Centre-Ville -> Steels",
           "status": "done",
-          "type": "unidirectionnelle",
+          "type": "bandes-cyclables",
           "link": ""
         },
         "geometry": {
+            "type": "LineString",
           "coordinates": [
             [
               4.400230265339474,
@@ -61,8 +62,7 @@
               4.396573482904898,
               45.43988424875997
             ]
-          ],
-          "type": "LineString"
+          ]
         }
       },
       {
@@ -72,7 +72,7 @@
           "line": 5,
           "name": "Centre-Ville -> Steels",
           "status": "planned",
-          "type": "unidirectionnelle",
+          "type": "bandes-cyclables",
           "link": ""
         },
         "geometry": {
@@ -108,7 +108,7 @@
           "line": 5,
           "name": "Centre-Ville -> Steels",
           "status": "unknown",
-          "type": "unidirectionnelle",
+          "type": "zone-de-rencontre",
           "link": ""
         },
         "geometry": {
