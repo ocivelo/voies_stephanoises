@@ -1,14 +1,14 @@
 {
   "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise"
+    "plural": "Voies Stephanoises",
+    "singular": "Voie Stephanoise"
   },
   "assoName": "La Ville à Vélo",
   "assoLink": "https://lavilleavelo.org",
-  "slug": "voie-lyonnaise",
+  "slug": "voie-stephanoises",
   "center": [
-    4.8312188,
-    45.757198
+    4.2840663,
+    45.4240742
   ],
   "zoom": 12,
   "colors": [
