@@ -4,7 +4,7 @@
       {
         "type": "Feature",
         "properties": {
-            "id": "Suivi_bus_M5",
+          "id": "Suivi_bus_M5",
           "line": 5,
           "name": "Centre-Ville -> Steels",
           "status": "postponed",
@@ -32,7 +32,7 @@
       {
         "type": "Feature",
         "properties": {
-            "id": "Suivi_bus_M5",
+          "id": "Suivi_bus_M5",
           "line": 5,
           "name": "Centre-Ville -> Steels",
           "status": "variante",
@@ -60,10 +60,10 @@
       {
         "type": "Feature",
         "properties": {
-            "id": "Suivi_bus_M5",
+          "id": "Suivi_bus_M5",
           "line": 5,
           "name": "Centre-Ville -> Steels",
-          "status": "tested",
+          "status": "done",
           "type": "unidirectionnelle",
           "link": ""
         },
@@ -92,7 +92,7 @@
       {
         "type": "Feature",
         "properties": {
-            "id": "Suivi_bus_M5",
+          "id": "Suivi_bus_M5",
           "line": 5,
           "name": "Centre-Ville -> Steels",
           "status": "unknown",
