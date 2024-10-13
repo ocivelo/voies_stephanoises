@@ -79,7 +79,7 @@
           "id": "Suivi_tram_propre",
           "line": 1,
           "name": "Centre-ville -> Solaure",
-          "status": "unknow",
+          "status": "unknown",
           "type": "bidirectionnelle",
           "link": ""
         },

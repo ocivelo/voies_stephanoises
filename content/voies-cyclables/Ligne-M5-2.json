@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "id": "Suivi_bus_M5",
+          "line": 5,
+          "name": "Centre-Ville -> Steels",
+          "status": "postponed",
+          "type": "unidirectionnelle",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.3937938358205315,
+              45.416500677049015
+            ],
+            [
+              4.39186821060008,
+              45.42340615525745
+            ],
+            [
+              4.391166126621897,
+              45.42553648876168
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "id": "Suivi_bus_M5",
+          "line": 5,
+          "name": "Centre-Ville -> Steels",
+          "status": "variante",
+          "type": "unidirectionnelle",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.39210607881509,
+              45.41314445350733
+            ],
+            [
+              4.39352078337248,
+              45.41638275633713
+            ],
+            [
+              4.393751441724277,
+              45.41660943058096
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "id": "Suivi_bus_M5",
+          "line": 5,
+          "name": "Centre-Ville -> Steels",
+          "status": "tested",
+          "type": "unidirectionnelle",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.416495762613124,
+              45.44385451039153
+            ],
+            [
+              4.410242568559823,
+              45.442482656692846
+            ],
+            [
+              4.402439910494138,
+              45.440709551078186
+            ],
+            [
+              4.39828953221317,
+              45.43975178644973
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "id": "Suivi_bus_M5",
+          "line": 5,
+          "name": "Centre-Ville -> Steels",
+          "status": "unknown",
+          "type": "unidirectionnelle",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.39827523475617,
+              45.439757906157524
+            ],
+            [
+              4.398036416766956,
+              45.43974267263337
+            ],
+            [
+              4.397797598777686,
+              45.44030631029469
+            ],
+            [
+              4.3973905226592365,
+              45.44022252667443
+            ],
+            [
+              4.396505810560967,
+              45.439860732339525
+            ],
+            [
+              4.395376852791145,
+              45.43935040796492
+            ],
+            [
+              4.394660396697134,
+              45.438824841432904
+            ],
+            [
+              4.392896400182963,
+              45.43747282777531
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [
+              4.392896858095554,
+              45.43747518094773
+            ],
+            [
+              4.3919323320618275,
+              45.43735251161843
+            ],
+            [
+              4.389189461149982,
+              45.43703526211647
+            ]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }
