@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+       "properties": {
+        "type": "en construction",
+        "name": "Solaure-Bellevue",
+        "line": 1
+      },
       "geometry": {
         "coordinates": [
           [
