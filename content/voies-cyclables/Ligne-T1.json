@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "Suivi_tram_propre",
+          "line": 1,
+          "name": "Vaulx-en-Velin Ouest",
+          "status": "done",
+          "type": "bidirectionnelle",
+          "link": "/voie-lyonnaise-1#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+                4.3937938358205315,
+                45.416500677049015
+              ],
+              [
+                4.39186821060008,
+                45.42340615525745
+              ],
+              [
+                4.391166126621897,
+                45.42553648876168
+              ]
+          ]
+        }
+      }
+    ]
+  }
+  
