@@ -4,9 +4,12 @@
     {
       "type": "Feature",
        "properties": {
-        "type": "en construction",
-        "name": "Solaure-Bellevue",
-        "line": 1
+        "id": "PeriCanal-commun",
+        "line": 1,
+        "name": "Vaulx-en-Velin Ouest",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-1#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
       },
       "geometry": {
         "coordinates": [
