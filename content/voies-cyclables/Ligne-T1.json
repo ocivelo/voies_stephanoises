@@ -6,10 +6,10 @@
         "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Vaulx-en-Velin Ouest",
+          "name": "Centre-Ville ->Solaure",
           "status": "done",
           "type": "bidirectionnelle",
-          "link": "/voie-lyonnaise-1#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
+          "link": ""
         },
         "geometry": {
           "type": "LineString",
@@ -27,6 +27,78 @@
                 45.42553648876168
               ]
           ]
+        }
+      },
+      {
+        "type": "Feature",
+         "properties": {
+          "id": "Suivi_tram_propre",
+          "line": 1,
+          "name": "Vaulx-en-Velin Ouest",
+          "status": "wip",
+          "type": "bidirectionnelle",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              4.379963696510828,
+              45.40687081226625
+            ],
+            [
+              4.382004948363289,
+              45.40725127919288
+            ],
+            [
+              4.384064264390702,
+              45.408151707377755
+            ],
+            [
+              4.38668356986588,
+              45.40936916491549
+            ],
+            [
+              4.3874242010687965,
+              45.40981302311516
+            ],
+            [
+              4.389266746989023,
+              45.411068488851384
+            ],
+            [
+              4.391965533906443,
+              45.41311104528677
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+         "properties": {
+          "id": "Suivi_tram_propre",
+          "line": 1,
+          "name": "Centre-ville -> Solaure",
+          "status": "unknow",
+          "type": "bidirectionnelle",
+          "link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+                4.39210607881509,
+                45.41314445350733
+              ],
+              [
+                4.39352078337248,
+                45.41638275633713
+              ],
+              [
+                4.393751441724277,
+                45.41660943058096
+              ]
+          ],
+          "type": "LineString"
         }
       }
     ]
