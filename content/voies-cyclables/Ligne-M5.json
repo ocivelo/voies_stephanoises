@@ -36,7 +36,7 @@
           "link": ""
         },
         "geometry": {
-            "type": "LineString",
+          "type": "LineString",
           "coordinates": [
             [
               4.400230265339474,
