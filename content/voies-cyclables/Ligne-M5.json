@@ -5,7 +5,7 @@
         "type": "Feature",
         "properties": {
           "id": "Suivi_bus_M5",
-          "line": A,
+          "line": 5,
           "name": "Centre-Ville -> Steel",
           "status": "done",
           "type": "voie-bus",
