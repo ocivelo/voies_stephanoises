@@ -6,7 +6,7 @@
         "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-Ville ->Solaure",
+          "name": "Centre-Ville -> Solaure",
           "status": "done",
           "type": "bidirectionnelle",
           "link": ""
@@ -34,7 +34,7 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Vaulx-en-Velin Ouest",
+          "name": "Centre-Ville -> Solaure",
           "status": "wip",
           "type": "bidirectionnelle",
           "link": ""
