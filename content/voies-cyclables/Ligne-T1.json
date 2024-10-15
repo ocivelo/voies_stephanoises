@@ -6,7 +6,7 @@
         "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-Ville ->Solaure",
+          "name": "Centre-Ville ->SolaurE",
           "status": "done",
           "type": "bidirectionnelle",
           "link": ""
