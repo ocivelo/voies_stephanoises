@@ -9,7 +9,7 @@
           "name": "Centre-Ville ->Solaure",
           "status": "done",
           "type": "bidirectionnelle",
-          "link": ""
+          "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
         },
         "geometry": {
           "type": "LineString",
