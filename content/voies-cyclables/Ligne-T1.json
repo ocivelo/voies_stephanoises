@@ -9,7 +9,7 @@
           "name": "Centre-Ville ->Solaure",
           "status": "done",
           "type": "bidirectionnelle",
-          "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
+          "link": ""
         },
         "geometry": {
           "type": "LineString",
@@ -34,10 +34,10 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-ville -> Solaure",
+          "name": "Vaulx-en-Velin Ouest",
           "status": "wip",
           "type": "bidirectionnelle",
-          "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
+          "link": ""
         },
         "geometry": {
           "coordinates": [
@@ -81,7 +81,7 @@
           "name": "Centre-ville -> Solaure",
           "status": "unknown",
           "type": "bidirectionnelle",
-          "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
+          "link": ""
         },
         "geometry": {
           "coordinates": [
@@ -99,81 +99,7 @@
               ]
           ],
           "type": "LineString"
-       }
-      },
-      {
-        "type": "Feature",
-         "properties": {
-          "id": "Suivi_tram_propre",
-          "line": 1,
-          "name": "axe vélo Ondaine",
-          "status": "unknown",
-          "type": "bidirectionnelle",
-          "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
-        },
- "geometry": {
-        "coordinates": [
-          [
-            4.380049433017717,
-            45.40692648507269
-          ],
-          [
-            4.378577127476547,
-            45.40608166286276
-          ],
-          [
-            4.377331330479564,
-            45.405544945719015
-          ],
-          [
-            4.375859024937313,
-            45.40516725282043
-          ],
-          [
-            4.374315935476147,
-            45.404918769273195
-          ],
-          [
-            4.37192343897118,
-            45.405047980854164
-          ],
-          [
-            4.371640303289979,
-            45.405187131456955
-          ],
-          [
-            4.371470421880787,
-            45.405067859532636
-          ],
-          [
-            4.3700689002596675,
-            45.405038041512285
-          ],
-          [
-            4.369785764578438,
-            45.405038041512285
-          ],
-          [
-            4.369134552511895,
-            45.40596239282712
-          ],
-          [
-            4.368624908286506,
-            45.40627050657105
-          ],
-          [
-            4.36723754344834,
-            45.4057735480888
-          ],
-          [
-            4.365439631873926,
-            45.4049684660699
-          ],
-          [
-            4.36371253135286,
-            45.40468021466364
-          ]
-        ],
-        "type": "LineString"
-     }
-      },
+        }
+      }
+    ]
+  }
