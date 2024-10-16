@@ -101,9 +101,7 @@
           "type": "LineString"
         }
       }
-    ]
-  }
-    {
+       {
         "type": "Feature",
          "properties": {
           "id": "Suivi_tram_propre",
