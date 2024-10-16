@@ -34,7 +34,7 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Vaulx-en-Velin Ouest",
+          "name": "Centre-ville -> Solaure",
           "status": "wip",
           "type": "bidirectionnelle",
           "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
@@ -106,13 +106,29 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-ville -> Solaure",
+          "name": "axe vélo Ondaine",
           "status": "unknown",
           "type": "bidirectionnelle",
           "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
         },
         "geometry": {
         "coordinates": [
+         [
+            4.38006358980175,
+            45.40694636309013
+          ],
+          [
+            4.378591284260608,
+            45.40615123693411
+          ],
+          [
+            4.377260546559512,
+            45.40551512795051
+          ],
+          [
+            4.37591565207444,
+            45.40519707077257
+          ]
           [
             4.375903912121032,
             45.40520700941437
