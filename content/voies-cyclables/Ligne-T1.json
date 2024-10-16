@@ -106,7 +106,7 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-ville -> Solaure",
+          "name": "vallée de l’ONDAINE",
           "status": "unknown",
           "type": "bidirectionnelle",
           "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-nord-sud-saint-etienne/"
@@ -182,8 +182,8 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-ville -> Solaure",
-          "status": "unknown",
+          "name": "vallée de l’ONDAINE",
+          "status": "done",
           "type": "bidirectionnelle",
           "link": ""
         },
