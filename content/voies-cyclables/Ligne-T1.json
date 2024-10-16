@@ -176,7 +176,7 @@
         ],
         "type": "LineString"
      }
-      }
+      },
   {
         "type": "Feature",
          "properties": {
@@ -382,4 +382,4 @@
       }
     }
   ]
-}
+},
