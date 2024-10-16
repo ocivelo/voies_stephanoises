@@ -112,7 +112,8 @@
           "status": "unknown",
           "type": "bidirectionnelle",
           "link": ""
-              "geometry": {
+         },
+        "geometry": {
         "coordinates": [
           [
             4.375903912121032,
