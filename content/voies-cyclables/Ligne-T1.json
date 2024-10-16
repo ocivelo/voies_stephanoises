@@ -103,26 +103,16 @@
       }
     ]
   }
-  {
-    "type": "FeatureCollection",
-    "features": [
-      {
+ {
         "type": "Feature",
-        "properties": {
-          "id": "Suivi_tram_propre 1",
+         "properties": {
+          "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "voie des confulences",
-          "status": "done",
+          "name": "Centre-ville -> Solaure",
+          "status": "unknown",
           "type": "bidirectionnelle",
-          "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
-        },
-          {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
+          "link": ""
+              "geometry": {
         "coordinates": [
           [
             4.375903912121032,
