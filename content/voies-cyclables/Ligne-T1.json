@@ -103,4 +103,62 @@
       }
     ]
   }
-  
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "Suivi_tram_propre 1",
+          "line": 1,
+          "name": "voie des confulences",
+          "status": "done",
+          "type": "bidirectionnelle",
+          "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-ondaine-v72-voie-verte-confluence/"
+        },
+          {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            4.375903912121032,
+            45.40520700941437
+          ],
+          [
+            4.374318352306744,
+            45.404938647324656
+          ],
+          [
+            4.3719541693699,
+            45.405057919521795
+          ],
+          [
+            4.370085473874298,
+            45.4050380408398
+          ],
+          [
+            4.3692502236157225,
+            45.40582324346147
+          ],
+          [
+            4.368514070845123,
+            45.40622081024691
+          ],
+          [
+            4.365286324080472,
+            45.40486907176026
+          ],
+          [
+            4.363658293914142,
+            45.40469016277183
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
