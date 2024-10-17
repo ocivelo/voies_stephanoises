@@ -1,106 +1,142 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "id": "Suivi_tram_propre",
-          "line": 1,
-          "name": "Centre-Ville ->Solaure",
-          "status": "done",
-          "type": "bidirectionnelle",
-          "link": ""
-        },
-        "geometry": {
-          "type": "LineString",
-          "coordinates": [
-            [
-                4.3937938358205315,
-                45.416500677049015
-              ],
-              [
-                4.39186821060008,
-                45.42340615525745
-              ],
-              [
-                4.391166126621897,
-                45.42553648876168
-              ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Suivi_tram_propre",
+        "line": 1,
+        "name": "Centre-Ville ->Solaure",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.3937938358205315,
+            45.416500677049015
+          ],
+          [
+            4.39186821060008,
+            45.42340615525745
+          ],
+          [
+            4.391281756985904,
+            45.425411860036974
           ]
-        }
-      },
-      {
-        "type": "Feature",
-         "properties": {
-          "id": "Suivi_tram_propre",
-          "line": 1,
-          "name": "Vaulx-en-Velin Ouest",
-          "status": "wip",
-          "type": "bidirectionnelle",
-          "link": ""
-        },
-        "geometry": {
-          "coordinates": [
-            [
-              4.379963696510828,
-              45.40687081226625
-            ],
-            [
-              4.382004948363289,
-              45.40725127919288
-            ],
-            [
-              4.384064264390702,
-              45.408151707377755
-            ],
-            [
-              4.38668356986588,
-              45.40936916491549
-            ],
-            [
-              4.3874242010687965,
-              45.40981302311516
-            ],
-            [
-              4.389266746989023,
-              45.411068488851384
-            ],
-            [
-              4.391965533906443,
-              45.41311104528677
-            ]
-          ],
-          "type": "LineString"
-        }
-      },
-      {
-        "type": "Feature",
-         "properties": {
-          "id": "Suivi_tram_propre",
-          "line": 1,
-          "name": "Centre-ville -> Solaure",
-          "status": "unknown",
-          "type": "bidirectionnelle",
-          "link": ""
-        },
-        "geometry": {
-          "coordinates": [
-            [
-                4.39210607881509,
-                45.41314445350733
-              ],
-              [
-                4.39352078337248,
-                45.41638275633713
-              ],
-              [
-                4.393751441724277,
-                45.41660943058096
-              ]
-          ],
-          "type": "LineString"
-        }
+        ],
+        "type": "LineString"
       }
-    ]
-  }
-  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Suivi_tram_propre-bellevue",
+        "line": 1,
+        "name": "Vaulx-en-Velin Ouest",
+        "status": "wip",
+        "type": "voie-bus",
+        "link": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.379963696510828,
+            45.40687081226625
+          ],
+          [
+            4.382004948363289,
+            45.40725127919288
+          ],
+          [
+            4.384064264390702,
+            45.408151707377755
+          ],
+          [
+            4.38668356986588,
+            45.40936916491549
+          ],
+          [
+            4.3874242010687965,
+            45.40981302311516
+          ],
+          [
+            4.389266746989023,
+            45.411068488851384
+          ],
+          [
+            4.391965533906443,
+            45.41311104528677
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Suivi_tram_propre-centredeux",
+        "line": 1,
+        "name": "Centredeux-> Solaure",
+        "status": "unknown",
+        "type": "bidirectionnelle",
+        "link": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.39210607881509,
+            45.41314445350733
+          ],
+          [
+            4.39352078337248,
+            45.41638275633713
+          ],
+          [
+            4.393751441724277,
+            45.41660943058096
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Suivi_tram_trefilerie",
+        "line": 1,
+        "name": "Centre-ville -> trefilerie",
+        "status": "wip",
+        "type": "voie-verte",
+        "link": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            4.391272049843195,
+            45.425413512253556
+          ],
+          [
+            4.390671540801122,
+            45.4274389198321
+          ],
+          [
+            4.391881529957686,
+            45.42765049109761
+          ],
+          [
+            4.391571805770951,
+            45.42829099653275
+          ],
+          [
+            4.390894367503847,
+            45.43058335129777
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 3
+    }
+  ]
+}
