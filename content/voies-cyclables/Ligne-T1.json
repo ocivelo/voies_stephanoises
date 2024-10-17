@@ -6,7 +6,7 @@
         "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-Ville ->Solaure",
+          "name": "Rue de docteur Charcot",
           "status": "done",
           "type": "bidirectionnelle",
           "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-nord-sud-saint-etienne/"
@@ -34,9 +34,9 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-ville -> Solaure",
-          "status": "wip",
-          "type": "bidirectionnelle",
+          "name": "Bellevue",
+          "status": "unknown",
+          "type": "inconnu",
           "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-nord-sud-saint-etienne/"
         },
         "geometry": {
@@ -78,8 +78,8 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Centre-ville -> Solaure",
-          "status": "unknown",
+          "name": "Solaure",
+          "status": "wip",
           "type": "bidirectionnelle",
           "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-nord-sud-saint-etienne/"
         },
@@ -106,9 +106,9 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "vallée de l’ONDAINE",
+          "name": "Solaure -> La Ricamarie",
           "status": "unknown",
-          "type": "bidirectionnelle",
+          "type": "inconnu",
           "link": "https://www.voies-vertes-metropolitaines.com/axe-velo-nord-sud-saint-etienne/"
         },
         "geometry": {
@@ -182,9 +182,9 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "vallée de l’ONDAINE",
+          "name": "La Ricamarie -> Le Chambon Feugerolles",
           "status": "done",
-          "type": "bidirectionnelle",
+          "type": "voie-verte",
           "link": ""
         },
         "geometry": {
@@ -386,7 +386,7 @@
          "properties": {
           "id": "Suivi_tram_propre",
           "line": 1,
-          "name": "Rue Pierre et Marie Curie",
+          "name": "Le Chambon Feugerolles Rue Pierre et Marie Curie",
           "status": "done",
           "type": "velorue",
           "link": ""
@@ -434,7 +434,7 @@
        "properties": {
         "id": "",
         "line": 1,
-        "name": "Chemins Collete Besson",
+        "name": "Le Chambon Feugerolles Chemins Collete Besson",
         "status": "done",
         "type": "voie-verte",
         "link": ""
@@ -506,8 +506,8 @@
        "properties": {
         "id": "",
         "line": 1,
-        "name": "Varriante rue du Moulin Chambon Feugerolles",
-        "status": "unknown",
+        "name": "Varriante rue du Moulin Le Chambon Feugerolles",
+        "status": "variante",
         "type": "inconnu",
         "link": ""
       },
@@ -590,7 +590,7 @@
        "properties": {
         "id": "",
         "line": 1,
-        "name": "Le Chambon -> Firminy",
+        "name": "Le Chambon Feugerolles -> Firminy",
         "status": "planned",
         "type": "inconnu",
         "link": ""
@@ -746,7 +746,7 @@
        "properties": {
         "id": "",
         "line": 1,
-        "name": "Unieux -> Pertuiset",
+        "name": "Unieux -> Le Pertuiset",
         "status": "done",
         "type": "voie-verte",
         "link": ""
