@@ -1196,8 +1196,8 @@
         ]
       },
       "properties": {
-        "name": "Connexion cité du désign - Rue Claude Odde",
-        "description": "Aménagement cyclable - Connexion cité du désign - Rue Claude Odde - Alternative à Bergson",
+        "id": "Connexion cité du désign - Rue Claude Odde",
+        "name": "Aménagement cyclable - Connexion cité du désign - Rue Claude Odde - Alternative à Bergson",
         "_umap_options": {
           "color": "MediumBlue",
           "opacity": "0.8",
