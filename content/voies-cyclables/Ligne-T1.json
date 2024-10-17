@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Suivi_tram_propre",
+        "id": "Suivi_tram_propre-bellevue",
         "line": 1,
         "name": "Vaulx-en-Velin Ouest",
         "status": "wip",
@@ -76,9 +76,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Suivi_tram_propre",
+        "id": "Suivi_tram_propre-centredeux",
         "line": 1,
-        "name": "Centre-ville -> Solaure",
+        "name": "Centredeux-> Solaure",
         "status": "unknown",
         "type": "bidirectionnelle",
         "link": ""
@@ -104,9 +104,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Suivi_tram_propre",
+        "id": "Suivi_tram_trefilerie",
         "line": 1,
-        "name": "Centre-ville -> Solaure",
+        "name": "Centre-ville -> trefilerie",
         "status": "wip",
         "type": "voie-verte",
         "link": ""
