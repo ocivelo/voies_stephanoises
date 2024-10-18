@@ -28,9 +28,9 @@
       {
         "type": "Feature",
         "properties": {
-          "id": "Suivi_bus_M5",
+          "id": "Suivi_bus_M5_2",
           "line": 5,
-          "name": "Centre-Ville -> St Jean-Bonnefond",
+          "name": "Centre-Ville -> St Jean-Bonnefond (1)",
           "status": "done",
           "type": "bandes-cyclables",
           "link": ""
@@ -68,9 +68,9 @@
       {
         "type": "Feature",
         "properties": {
-          "id": "Suivi_bus_M5",
+          "id": "Suivi_bus_M5_3",
           "line": 5,
-          "name": "Centre-Ville -> St Jean-Bonnefond",
+          "name": "Centre-Ville -> St Jean-Bonnefond (2)",
           "status": "planned",
           "type": "bandes-cyclables",
           "link": ""
@@ -104,9 +104,9 @@
       {
         "type": "Feature",
         "properties": {
-          "id": "Suivi_bus_M5",
+          "id": "Suivi_bus_M5_end",
           "line": 5,
-          "name": "Centre-Ville -> St Jean-Bonnefond",
+          "name": "Centre-Ville -> St Jean-Bonnefond (3)",
           "status": "unknown",
           "type": "zone-de-rencontre",
           "link": ""
