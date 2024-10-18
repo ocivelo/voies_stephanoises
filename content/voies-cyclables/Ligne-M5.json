@@ -6,7 +6,7 @@
         "properties": {
           "id": "Suivi_bus_M5",
           "line": 5,
-          "name": "Centre-Ville -> Steels",
+          "name": "Centre-Ville -> St Jean-Bonnefond",
           "status": "done",
           "type": "voie-bus",
           "link": ""
@@ -30,7 +30,7 @@
         "properties": {
           "id": "Suivi_bus_M5_2",
           "line": 5,
-          "name": "Centre-Ville -> Steelstr",
+          "name": "Centre-Ville -> St Jean-Bonnefond (1)",
           "status": "done",
           "type": "bandes-cyclables",
           "link": ""
@@ -70,7 +70,7 @@
         "properties": {
           "id": "Suivi_bus_M5_3",
           "line": 5,
-          "name": "C4",
+          "name": "Centre-Ville -> St Jean-Bonnefond (2)",
           "status": "planned",
           "type": "bandes-cyclables",
           "link": ""
@@ -106,7 +106,7 @@
         "properties": {
           "id": "Suivi_bus_M5_end",
           "line": 5,
-          "name": "5",
+          "name": "Centre-Ville -> St Jean-Bonnefond (3)",
           "status": "unknown",
           "type": "zone-de-rencontre",
           "link": ""
